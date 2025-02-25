@@ -1,0 +1,5 @@
+Ostad-Project-Module-1:
+1. Initialized a local Git repository.
+2. Created a README.md file.
+3. Created a new branch (`dev`) and added a new file (`hello.txt`).
+4. Pushed changes to GitHub and created a pull request.
